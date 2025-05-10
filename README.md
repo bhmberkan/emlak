@@ -12,9 +12,6 @@
 
 - **C# & ASP.NET**
 - **MSSQL Veritabanı**
-- **Entity Framework**
-- **Bootstrap & jQuery**
-- **HTML, CSS & JavaScript**
 
 ## ⚙️ Kurulum
 
